@@ -53,7 +53,6 @@ Eugene is broadly interested in species ecology and diversification, especially 
 Students are listed alphabetically.
 <br>
 
-<img align="left" src="/images/peggy2.jpg" alt="peggy" width="140" hspace="10"/>
 #### Peggy Huss
 Interested in genetics and understanding evolutionary relationships, Peggy will be working on an extensive database of East African bird genomes. Her work will help uncover the evolutionary relationships across the sky islands of the Lacustrine Rift, and help us better understand the diversity of the region.
 <br><br>

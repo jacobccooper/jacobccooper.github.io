@@ -14,7 +14,7 @@ title: 'Cooper Lab @ UNK'
 slogan: 'Studying the ecology and evolution of birds and other organisms in the Great Plains and beyond.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'University of Nebraska at Kearney research group studying the ecology, evolution, and biogeography of birds and other life on earth.'
+description: 'Please go to the UNK Ornithology website:<a href="http://unkornithology.github.com/" target="_blank">UNK ornithology</a>.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Jacob C. Cooper using <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> from <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> by <a href="http://phlow.de/">Phlow</a>.</p>'
